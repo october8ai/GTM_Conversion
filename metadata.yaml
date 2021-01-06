@@ -1,7 +1,5 @@
 homepage: "http://blackcrow.ai"
 documentation: "http://www.blackcrow.ai"
 versions:
-  - sha: d4a596ff2c45b865f2024fade24f11355af6c2dd
+  - sha: 9b462f8c7ed64ba0c25c1fa09ee861a3bcbaa3bc
     changeNotes: Initial release.
-  - sha: 537bfe26690763f237e5017e3691b12144759cd8
-    changeNotes: Update Documentation
