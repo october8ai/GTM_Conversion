@@ -1,5 +1,12 @@
 homepage: "http://blackcrow.ai"
 documentation: "http://www.blackcrow.ai"
 versions:
+  # Latest version
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874c
+    changeNotes: |2
+      Fix bug with the whatsamajig.
+      Improve menu options.
+      Update API calls.
+  # Older versions
   - sha: 9b462f8c7ed64ba0c25c1fa09ee861a3bcbaa3bc
     changeNotes: Initial release.
