@@ -2,8 +2,10 @@ homepage: "http://blackcrow.ai"
 documentation: "http://www.blackcrow.ai"
 versions:
   # Latest version
+  - sha: b440be7381b9a2493a40941d1006f4ee3d0a765d
+    changeNotes: Update trigger to match new BCAI internal interface
+  # Older versions
   - sha: 9827fbab840b18e01008600f19be0b8076046edf
     changeNotes: Update to conversion code
-  # Older versions
   - sha: 9b462f8c7ed64ba0c25c1fa09ee861a3bcbaa3bc
     changeNotes: Initial release.
